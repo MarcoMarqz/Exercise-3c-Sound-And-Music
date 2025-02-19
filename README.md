@@ -1,6 +1,6 @@
 # Exercise-03c-Sound-And-Music
 
-Exercise for MSCH-C220
+Exercise for MSCH-C220 Marco Marquez
 
 The second exercise adding "juicy" features to a simple brick-breaker game.
 
@@ -12,6 +12,7 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 ## Implementation
 
 Built using Unity 2022.3.45f
+Comet trail, Music and Sound
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -22,8 +23,8 @@ Built using Unity 2022.3.45f
 
 ## Future Development
 
-Adding a face, Comet trail, Music and Sound, Shaders, etc.
+Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Marco Marquez
